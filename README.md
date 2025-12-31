@@ -1,4 +1,5 @@
 # Análise Estratégica de Vendas e Lucratividade Regional
+![](img_painel.png)
 ### 1. Problema de Negócio
 - A empresa, apesar de manter um volume de vendas constante, identificou inconsistências na margem de lucro final. A diretoria precisava entender por que determinadas regiões, mesmo com atividade comercial ativa, não estavam contribuindo positivamente para o resultado financeiro.
 
