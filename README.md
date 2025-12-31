@@ -1,9 +1,9 @@
 # Análise Estratégica de Vendas e Lucratividade Regional
 ![](img_painel.png)
 ### 1. Problema de Negócio
-- A empresa, apesar de manter um volume de vendas constante, identificou inconsistências na margem de lucro final. A diretoria precisava entender por que determinadas regiões, mesmo com atividade comercial ativa, não estavam contribuindo positivamente para o resultado financeiro.
+A empresa, apesar de manter um volume de vendas constante, identificou inconsistências na margem de lucro final. A diretoria precisava entender por que determinadas regiões, mesmo com atividade comercial ativa, não estavam contribuindo positivamente para o resultado financeiro.
 
-- O desafio era sair de relatórios estáticos de vendas e criar uma visão dinâmica que permitisse cruzar Vendas, Lucro e Descontos para identificar vazamentos de receita e oportunidades de ajuste na estratégia de precificação.
+O desafio era sair de relatórios estáticos de vendas e criar uma visão dinâmica que permitisse cruzar Vendas, Lucro e Descontos para identificar vazamentos de receita e oportunidades de ajuste na estratégia de precificação.
 
 ### 2. Contexto
 A operação cobre quatro grandes regiões (Central, East, South, West) nos Estados Unidos, com um mix de produtos variado. Os dados históricos continham informações granulares de transações, mas faltava inteligência analítica para responder:
